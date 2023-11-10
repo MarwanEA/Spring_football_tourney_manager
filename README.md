@@ -37,7 +37,7 @@ L'application expose une API REST. Voici quelques exemples d'endpoints :
 
 - etc.
 
-Consultez cette [vidéo de démonstration](https://youtu.be/VIDEO_ID) pour voir l'application en action.
+Consultez cette [vidéo de démonstration](https://youtu.be/liBetXqfGo8) pour voir l'application en action.
 
 Le modèle de données est le suivant :
 
