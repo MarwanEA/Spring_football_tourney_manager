@@ -19,7 +19,7 @@ Ce projet consiste en un système de gestion de tournoi de football construit av
 
 ## Technologies
 
-- Java 11
+- Java 17
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
@@ -41,7 +41,7 @@ Consultez cette [vidéo de démonstration](https://youtu.be/VIDEO_ID) pour voir 
 
 Le modèle de données est le suivant :
 
-![image](https://github.com/MarwanEA/Spring_football_tourney_manager/assets/23003724/c29fec3d-de99-45f2-89ec-5b818b76890e)
+![A9yb10tg_tov0wh_cw0](https://github.com/MarwanEA/Spring_football_tourney_manager/assets/23003724/5f397230-dab2-4a90-9967-42a04e069fb2)
 
 
 ## Installation
@@ -50,4 +50,7 @@ Le modèle de données est le suivant :
 2. Configurer vos informations de BDD dans `application.properties`
 3. Exécuter l'application
 4. Appeler les endpoints via Postman/cURL
+
+
+
 
